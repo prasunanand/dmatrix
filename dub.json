@@ -1,0 +1,13 @@
+{
+	"name": "dmatrix",
+	"authors": [
+		"Prasun Anand"
+	],
+  "dependencies": {
+    "cblas": "~>1.0.0"
+  },
+  "libs": ["openblas", "lapacke"],
+	"description": "A linear algebra library for D",
+	"copyright": "Copyright © 2017, Prasun Anand",
+	"license": "BSD-3-Clause"
+}
